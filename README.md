@@ -1,6 +1,6 @@
 # Document Search Application
 <img width="1415" height="635" alt="image" src="https://github.com/user-attachments/assets/dcdc77bd-9219-4942-a9dd-8f94ac1c0557" />
-
+.
 <img width="1019" height="946" alt="image" src="https://github.com/user-attachments/assets/6df8f669-ecf2-49ee-b0dc-054fd9b5c915" />
 
 
