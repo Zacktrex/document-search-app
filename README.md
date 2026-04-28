@@ -1,4 +1,6 @@
 # Document Search Application
+<img width="1415" height="635" alt="image" src="https://github.com/user-attachments/assets/dcdc77bd-9219-4942-a9dd-8f94ac1c0557" />
+
 
 ## Setup Instructions
 
