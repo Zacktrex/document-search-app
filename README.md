@@ -15,10 +15,10 @@ cd document-search-app
  Start MongoDB using Docker
 
  a docker-compose.yml file is already provided in the backend folder, you can start MongoDB with:
-
+```bash
 cd backend
 docker-compose up -d
-
+```
 This will start the required services (MongoDB) in the background.
 
 ---
